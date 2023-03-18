@@ -199,7 +199,7 @@ button {
 }
 
 button:hover {
-    background-color: var(--violet);
+    background-color: #d17068;
 }
 
 .imgbox {
@@ -213,7 +213,7 @@ button:hover {
     height: 100%;
     left: 30px;
     width: calc(130% - 80px);
-    top: 150px;
+    top: 190px;
     animation: animateUser 4s linear infinite;
 }
 
@@ -224,7 +224,7 @@ button:hover {
 
     50% {
         left: 30px;
-        top: 140px;
+        top: 160px;
     }
 
     100% {
