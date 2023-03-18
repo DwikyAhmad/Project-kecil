@@ -213,7 +213,7 @@ button:hover {
     height: 100%;
     left: 30px;
     width: calc(130% - 80px);
-    top: 190px;
+    top: 210px;
     animation: animateUser 4s linear infinite;
 }
 
@@ -224,7 +224,7 @@ button:hover {
 
     50% {
         left: 30px;
-        top: 160px;
+        top: 180px;
     }
 
     100% {
